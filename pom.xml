@@ -1,0 +1,6 @@
+<repositories>
+        <repository>
+            <id>java-net-repo</id>
+            <url>https://maven.java.net/content/repositories/public/</url>
+        </repository>     
+  </repositories>
